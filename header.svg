@@ -1,0 +1,58 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes typing {
+      from { clip-path: inset(0 100% 0 0); }
+      to { clip-path: inset(0 0 0 0); }
+    }
+    
+    @keyframes rotate {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+
+    .title { 
+      font: bold 28px 'Segoe UI', Ubuntu, Sans-Serif; 
+      fill: #58a6ff; 
+      clip-path: inset(0 100% 0 0);
+      animation: typing 1.5s steps(30) forwards; 
+    }
+    
+    .subtitle { 
+      font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; 
+      fill: #8b949e; 
+      clip-path: inset(0 100% 0 0);
+      animation: typing 1.5s steps(40) 1.5s forwards; 
+    }
+    
+    .desc { 
+      font: 14px 'Segoe UI', Ubuntu, Sans-Serif; 
+      fill: #8b949e; 
+      clip-path: inset(0 100% 0 0);
+      animation: typing 1.5s steps(50) 3s forwards; 
+    }
+
+    .react-logo {
+      animation: rotate 10s linear infinite;
+      transform-origin: 680px 100px;
+    }
+  </style>
+
+  <rect width="800" height="200" rx="10" fill="#0d1117"/>
+
+  <!-- Текстовый блок -->
+  <text x="40" y="70" class="title">Hi 👋, I'm Damir</text>
+  <text x="40" y="105" class="subtitle">Frontend Engineer • React • TypeScript • Next.js</text>
+  <text x="40" y="135" class="desc">Building scalable web applications with modern architecture.</text>
+
+  <!-- Логотип React -->
+  <g class="react-logo">
+    <g transform="translate(680, 100) scale(4.5)">
+      <circle cx="0" cy="0" r="2.05" fill="#61DAFB"/>
+      <g stroke="#61DAFB" stroke-width="1" fill="none">
+        <ellipse rx="11" ry="4.2"/>
+        <ellipse rx="11" ry="4.2" transform="rotate(60)"/>
+        <ellipse rx="11" ry="4.2" transform="rotate(120)"/>
+      </g>
+    </g>
+  </g>
+</svg>
