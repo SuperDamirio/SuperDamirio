@@ -9,8 +9,8 @@ Building scalable web applications with modern architecture.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Groundbender">
-    <img src="https://komarev.com/ghpvc/?username=Groundbender&label=Profile%20Views&color=7aa2f7&style=flat-square" />
+  <a href="https://github.com/SuperDamirio">
+    <img src="https://komarev.com/ghpvc/?username=SuperDamirio&label=Profile%20Views&color=7aa2f7&style=flat-square" />
   </a>
 </p>
 
@@ -53,9 +53,9 @@ Building scalable web applications with modern architecture.
 ## 📈 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Groundbender&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SuperDamirio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Groundbender&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperDamirio&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@ Building scalable web applications with modern architecture.
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Groundbender&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SuperDamirio&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@ Building scalable web applications with modern architecture.
 ## 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Groundbender&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuperDamirio&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -79,7 +79,7 @@ Building scalable web applications with modern architecture.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Groundbender&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SuperDamirio&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -99,7 +99,7 @@ Building scalable web applications with modern architecture.
 
 <p align="center">
 
-<a href="https://github.com/Groundbender" target="_blank">
+<a href="https://github.com/SuperDamirio" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
