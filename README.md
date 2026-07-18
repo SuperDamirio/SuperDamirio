@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/SuperDamirio/SuperDamirio/main/header.svg" width="800" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SuperDamirio/SuperDamirio/main/divider.svg" width="100%" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -31,10 +33,6 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/SuperDamirio" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-</a>
 
 <a href="https://www.linkedin.com/in/damir-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-nasybullin-508219343/?locale=en" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
