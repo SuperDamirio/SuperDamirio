@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Damir</h1>
-
-<h3 align="center">
-Frontend Engineer • React • TypeScript • Next.js
-</h3>
-
 <p align="center">
-Building scalable web applications with modern architecture.
+  <img src="https://raw.githubusercontent.com/SuperDamirio/SuperDamirio/main/header.svg" width="800" />
 </p>
 
 ---
