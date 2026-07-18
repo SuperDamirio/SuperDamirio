@@ -59,7 +59,3 @@
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SuperDamirio/SuperDamirio/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
