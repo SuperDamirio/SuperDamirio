@@ -20,7 +20,9 @@
 - ☁️ Docker, CI/CD & GitHub Actions
 - 🤖 Passionate about AI-powered development
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SuperDamirio/SuperDamirio/main/divider.svg" width="100%" />
+</p>
 
 ## 🚀 Tech Stack
 
@@ -28,7 +30,9 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,redux,vite,webpack,tailwind,html,css,sass,docker,git,github,gitlab,jest,vscode,figma&theme=dark&perline=7" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SuperDamirio/SuperDamirio/main/divider.svg" width="100%" />
+</p>
 
 ## 🌍 Connect With Me
 
@@ -48,7 +52,9 @@
 
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SuperDamirio/SuperDamirio/main/divider.svg" width="100%" />
+</p>
 
 <p align="center">
 <i>"Clean code. Scalable architecture. Great user experience."</i>
