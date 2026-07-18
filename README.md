@@ -36,7 +36,7 @@
 <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/damir-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-nasybullin-508219343/?locale=en" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
@@ -44,7 +44,7 @@
 <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="44"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:barney24may@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
