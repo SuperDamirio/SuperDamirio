@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Damir</h1>
-
-<h3 align="center">
-Frontend Engineer • React • TypeScript • Next.js
-</h3>
+<p align="center">
+  <img src="./assets/header.svg" width="100%" />
+</p>
 
 <p align="center">
-Building scalable web applications with modern architecture.
+  <img src="https://komarev.com/ghpvc/?username=SuperDamirio&label=Profile%20Views&color=7aa2f7&style=flat-square" />
 </p>
 
 <p align="center">
